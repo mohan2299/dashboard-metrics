@@ -45,4 +45,3 @@ yamux
 go-metrics
 serf
 raft-snapshot
-test
